@@ -1,23 +1,17 @@
 [![Gráfico de atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=julenmuller&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/JuliMuller">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</a>
-
-<p>
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Bootstrap" height="30" width="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-  <img alt="PostgreSQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img alt="Node.js" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img alt="React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img alt="Jupyter" height="30" width="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg">
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JuliMuller">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,html,css,python,java,bootstrap,postgres,nodejs,react,jupyter&theme=dark&perline=5" />
+    </td>
+  </tr>
 </table>
-
 
 ## 🌐 Social Media
 
