@@ -7,7 +7,7 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
       </a>
     </td>
-    <td
+    <td>
       <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
