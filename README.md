@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/JuliMuller">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+      <a href="https://github.com/julenmuller">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&v=1"/>
       </a>
     </td>
     <td>
