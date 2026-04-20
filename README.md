@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/julenmuller">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julenmuller&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
