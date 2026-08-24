@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/31383220/README.1.md)
 <!-- banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5fa2,50:c2186f,100:7a1f5c&height=190&section=header&text=Juliana%20Muller&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=python%20%C2%B7%20dados%20%C2%B7%20automa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
