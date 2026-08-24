@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3500&pause=900&color=FF5FA2&center=true&vCenter=true&width=640&height=50&lines=hello+world+%3E_;system+online+%E2%80%94+welcome_;transformando+dados+em+insights_" alt="typing" />
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
 
 ## `>_ whoami`
 
@@ -16,15 +16,15 @@ Atualmente estudando e construindo projetos com Pandas, automação de Excel e c
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="./terminal.svg" width="560" alt="juliana.txt" />
+      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/terminal.svg" width="560" alt="juliana.txt" />
     </td>
     <td align="center" valign="middle">
-      <img src="./dino.svg" width="160" alt="dino" />
+      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/dino.svg" width="160" alt="dino" />
     </td>
   </tr>
 </table>
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
 
 ## `>_ stack`
 
@@ -44,7 +44,7 @@ Atualmente estudando e construindo projetos com Pandas, automação de Excel e c
   <img src="https://img.shields.io/badge/n8n-ff8ec8?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
 
 ## `>_ stats`
 
@@ -69,7 +69,7 @@ Atualmente estudando e construindo projetos com Pandas, automação de Excel e c
   </a>
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
 
 ## `>_ contato`
 
