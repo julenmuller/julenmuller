@@ -1,75 +1,91 @@
-<!-- banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5fa2,50:c2186f,100:7a1f5c&height=190&section=header&text=Juliana%20Muller&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=python%20%C2%B7%20dados%20%C2%B7%20automa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3500&pause=900&color=FF5FA2&center=true&vCenter=true&width=640&height=50&lines=hello+world+%3E_;system+online+%E2%80%94+welcome_;transformando+dados+em+insights_" alt="typing" />
+  <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/name.svg" width="820" alt="juliana muller" />
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=FF5FA2&center=true&vCenter=true&width=760&height=46&lines=junior+full-stack+developer_;react+%C2%B7+typescript+%C2%B7+python+%C2%B7+java_;data+science+%C2%B7+ml+%C2%B7+sql+%C2%B7+mongodb_" alt="typing" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5fa2,50:c2186f,100:ff8ec8&height=3" width="100%" />
 
 ## `>_ whoami`
 
-Sou a **Juliana**, desenvolvedora focada em **Python, análise de dados e automação**.
-Gosto de pegar planilha bagunçada e transformar em coisa útil — notebooks, dashboards, bots e scripts que rodam sozinhos.
-Atualmente estudando e construindo projetos com Pandas, automação de Excel e chatbots com n8n.
+Sou a **Juliana**, desenvolvedora **full-stack júnior**. No front-end trabalho com **React** e **TypeScript**, e no back-end com **Python** e **Java**. Também atuo com **análise de dados** e **machine learning**, usando bibliotecas como Pandas e scikit-learn, e tenho experiência com os bancos de dados **PostgreSQL**, **MySQL** e **MongoDB**. Gosto de transformar dados e ideias em soluções úteis, como aplicações web, notebooks, dashboards, chatbots e automações. Atualmente sigo estudando e construindo projetos para evoluir como desenvolvedora.
 
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/terminal.svg" width="560" alt="juliana.txt" />
+      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/card.svg" width="560" alt="juliana.txt" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/dino.svg" width="160" alt="dino" />
+      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/dino-run.svg" width="200" alt="dino" />
     </td>
   </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5fa2,50:c2186f,100:ff8ec8&height=3" width="100%" />
 
 ## `>_ stack`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ff5fa2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-c2186f?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-ff8ec8?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ff5fa2?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-c2186f?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-ff8ec8?style=for-the-badge&logo=react&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/HTML5-ff5fa2?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-c2186f?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-ff8ec8?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ff5fa2?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-c2186f?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-ff8ec8?style=for-the-badge&logo=n8n&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,nodejs&theme=dark" alt="frontend" />
+  </a>
+  <br /><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mongodb,mysql,postgres,git,github&theme=dark" alt="backend e dados" />
+  </a>
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/keyboard.svg" width="600" alt="teclado pixel digitando juliana" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5fa2,50:c2186f,100:ff8ec8&height=3" width="100%" />
 
 ## `>_ stats`
 
 <p align="center">
-  <a href="https://github.com/julenmuller">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=julenmuller&custom_title=contribution%20graph&bg_color=0d0010&color=ffb3d9&title_color=ff5fa2&line=ff5fa2&point=ffd1e8&area=true&area_color=ff5fa2&border_color=ff5fa2&radius=6" width="100%" alt="activity graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julenmuller&custom_title=contribution%20graph&bg_color=0d0010&color=ffb3d9&title_color=ff5fa2&line=ff5fa2&point=ffd1e8&area=true&area_color=ff5fa2&border_color=ff5fa2&radius=6" width="100%" alt="activity graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/julenmuller">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=julenmuller&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0010&title_color=ff5fa2&text_color=ffb3d9&icon_color=ff5fa2&border_color=ff5fa2&ring_color=ff8ec8&border_radius=6&custom_title=my%20github%20statistics" alt="stats" />
-  </a>
-  <a href="https://github.com/julenmuller">
-    <img height="180" src="https://streak-stats.demolab.com?user=julenmuller&background=0d0010&border=ff5fa2&stroke=ff5fa2&ring=ff5fa2&fire=ff8ec8&currStreakNum=ffb3d9&sideNums=ffb3d9&currStreakLabel=ff5fa2&sideLabels=ff5fa2&dates=c2186f&border_radius=6" alt="streak" />
-  </a>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julenmuller&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0010&title_color=ff5fa2&text_color=ffb3d9&icon_color=ff5fa2&border_color=ff5fa2&ring_color=ff8ec8&border_radius=6&custom_title=my%20github%20statistics" alt="stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=julenmuller&background=0d0010&border=ff5fa2&stroke=ff5fa2&ring=ff5fa2&fire=ff8ec8&currStreakNum=ffb3d9&sideNums=ffb3d9&currStreakLabel=ff5fa2&sideLabels=ff5fa2&dates=c2186f&border_radius=6" alt="streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/julenmuller">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julenmuller&layout=compact&langs_count=8&bg_color=0d0010&title_color=ff5fa2&text_color=ffb3d9&border_color=ff5fa2&border_radius=6&custom_title=most%20used%20languages" alt="top languages" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julenmuller&layout=compact&langs_count=8&bg_color=0d0010&title_color=ff5fa2&text_color=ffb3d9&border_color=ff5fa2&border_radius=6&custom_title=most%20used%20languages" alt="top languages" />
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5fa2,50:c2186f,100:ff8ec8&height=3" width="100%" />
+
+## `>_ trilha sonora`
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/cat.gif" width="300" alt="gato pixel" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/equalizer.gif" width="260" alt="equalizer" />
+      <br /><br />
+      <a href="https://open.spotify.com/user/tw74hhbkxv08yovip1ibqule4">
+        <img src="https://img.shields.io/badge/o%20que%20eu%20ou%C3%A7o%20codando-Spotify-ff5fa2?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0010" alt="spotify" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff5fa2,50:c2186f,100:ff8ec8&height=3" width="100%" />
 
 ## `>_ contato`
 
@@ -83,7 +99,13 @@ Atualmente estudando e construindo projetos com Pandas, automação de Excel e c
   <a href="https://instagram.com/julenmuller">
     <img src="https://img.shields.io/badge/Instagram-ff8ec8?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://open.spotify.com/user/tw74hhbkxv08yovip1ibqule4">
+    <img src="https://img.shields.io/badge/Spotify-ff5fa2?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
-<!-- rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f5c,50:c2186f,100:ff5fa2&height=110&section=footer" width="100%" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/julenmuller/julenmuller@main/assets/ds-gameover.gif" width="130" alt="" />
+  <br />
+  <sub>game over? never. <b>continue &gt;</b></sub>
+</p>
